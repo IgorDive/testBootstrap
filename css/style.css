@@ -1,0 +1,15 @@
+.container {
+	height: 300px;
+	width: 100%;
+}
+
+.row {
+	background-color: gray;
+	height: 100%;
+}
+
+.col {
+	background-color: green;
+	outline: dashed black 1px;
+	text-align: center;
+}
